@@ -4,6 +4,7 @@
 #include <locale.h>
 #include <string.h>
 
+//flamengo é pessimo
 //jogar foraaaaa
 //jogar fora doisssssssssssss
 //teste primario
