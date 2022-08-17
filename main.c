@@ -5,6 +5,7 @@
 #include <string.h>
 
 //jogar foraaaaa
+//jogar fora doisssssssssssss
 
 int main()
 {
