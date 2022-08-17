@@ -6,6 +6,7 @@
 
 //jogar foraaaaa
 //jogar fora doisssssssssssss
+//teste primario
 
 int main()
 {
