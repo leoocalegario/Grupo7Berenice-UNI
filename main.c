@@ -4,6 +4,8 @@
 #include <locale.h>
 #include <string.h>
 
+//jogar foraaaaa
+
 int main()
 {
     setlocale(LC_ALL, "Portuguese");
